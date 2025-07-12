@@ -1,1 +1,1 @@
-"# mathmatical_method_finalproject" 
+適用於任何對象的深度學習GUI輔助學習工具 
